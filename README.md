@@ -43,7 +43,7 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO/assets/140084057/ae337aa0-ec
 
 - 手动安装：
     1. `cd custom_nodes`
-    2. `git clone https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO.git`
+    2. `git clone https://github.com/sunqr97/ComfyUI-BiRefNet-ZHO.git`
     3. `cd custom_nodes/ComfyUI-BiRefNet-ZHO`
     4. `pip install -r requirements.txt`
     5. 重启 ComfyUI
